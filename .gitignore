@@ -37,6 +37,8 @@ sysinfo.txt
 
 ##########Assets/Packages downloaded from the Unity Asset Store##########
 
+/Assets/Animations/
+/Assets/Animations.meta
 /Assets/Models/
 /Assets/Models.meta
 /Assets/Textures/
