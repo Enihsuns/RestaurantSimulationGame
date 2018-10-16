@@ -35,6 +35,10 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+############Assets/Packages downloaded from the Standard Asset###########
+/Assets/Standard Assets
+/Assets/Standard Assets.meta
+
 ##########Assets/Packages downloaded from the Unity Asset Store##########
 
 /Assets/Animations/
